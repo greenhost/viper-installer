@@ -136,7 +136,6 @@ SectionEnd
 SectionGroup /e "Prerequisites" SEC002
 Section "TUN/TAP driver install" SEC003
   SetOutPath "$INSTDIR"
-  MessageBox MB_OK|MB_ICONINFORMATION "This software needs a third-party TAP/TUN driver to work. This driver is included in this installation package and will install automatically when you click OK."
 
   SetOutPath "$INSTDIR\tap-windows"
   ExecWait '"$INSTDIR\tap-windows\tap-windows.exe" /S'
