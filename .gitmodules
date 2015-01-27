@@ -1,0 +1,6 @@
+[submodule "viper"]
+	path = viper
+	url = https://github.com/greenhost/viper.git
+[submodule "viper-reference-gui"]
+	path = viper-reference-gui
+	url = https://github.com/greenhost/viper-reference-gui.git
