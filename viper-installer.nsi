@@ -6,7 +6,7 @@
 
 ; Define helper variables
 !define PRODUCT_NAME "viper"
-!define PRODUCT_VERSION "1.0"
+!define PRODUCT_VERSION "1.0.0.2"
 !define PRODUCT_DISPLAY_NAME "${PRODUCT_NAME} v${PRODUCT_VERSION}"
 !define PRODUCT_PUBLISHER "Greenhost"
 !define PRODUCT_WEB_SITE "www.greenhost.nl"
